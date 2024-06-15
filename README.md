@@ -15,7 +15,7 @@
 * Дороговизна H2
 
 ### Отличия от стока:
-* Маунты голов
+* Маунты голов (есть версия для MGN12H)
 * Каретки Y:
   * Увеличена жёсткость
   * Прижим ремня передалан на алюминиевый
@@ -28,6 +28,7 @@
 * Сборка в формате .step
 * Файлы для печати в формате .stl
 * BOM (список необходимых деталей)
+* [Указания](instructions/Printing%20recommendations.pdf) по ориентации деталей при печати и ручным поддержкам
 * ~~Инструкция по сборке~~ (может быть когда-нибудь)
 
 ## 3D Сборка
@@ -50,6 +51,7 @@
 * Проект Восток (https://k3d.tech/vostok)
 * Дмитрий Соркин (https://t.me/dsorkin) - автор проекта Восток, модель biqu h2 ([grabcad](https://grabcad.com/library/biqu-h2-dimensional-model-1))
 * Юрий Кривенко (https://t.me/popingus) - основа маунтов балки и голов, модели обдувов
+* .//Hack (https://t.me/DssHack) - маунты голов для MGN12H
 * Alex Troiden - модель CHC Pro ([grabcad](https://grabcad.com/library/chc-pro-trianglelab-1))
 
 
